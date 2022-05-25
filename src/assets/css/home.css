@@ -1,0 +1,74 @@
+.home-container .mt-20 {
+  margin-top: 20px;
+}
+.home-container .mt-20 .user {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+.home-container .mt-20 .user img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 40px;
+}
+.home-container .mt-20 .user .userInfo .name {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+.home-container .mt-20 .user .userInfo .access {
+  color: #999;
+}
+.home-container .mt-20 .login-info p {
+  line-height: 28px;
+  font-size: 14px;
+  color: #999;
+}
+.home-container .mt-20 .login-info p span {
+  color: #666;
+  margin-left: 60px;
+}
+.home-container .mt-20 .tb {
+  height: 450px;
+}
+.home-container .mt-20 .num {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.home-container .mt-20 .num .el-card {
+  width: 32%;
+  margin-bottom: 20px;
+}
+.home-container .mt-20 .num .icon {
+  font-size: 30px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+  color: #fff;
+}
+.home-container .mt-20 .num .detail {
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-container .mt-20 .num .detail .num {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.home-container .mt-20 .num .detail .txt {
+  font-size: 14px;
+  text-align: center;
+  color: #999;
+}
+.home-container .mt-20 .graph {
+  display: flex;
+  justify-content: space-between;
+}
+.home-container .mt-20 .graph .el-card {
+  width: 48%;
+}
