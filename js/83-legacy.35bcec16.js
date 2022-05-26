@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_manage"]=self["webpackChunkvue_manage"]||[]).push([[83],{66083:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"goods-container"},[e._v("商品管理")])},u=[],s={name:"MyGoods"},r=s,c=t(1001),l=(0,c.Z)(r,a,u,!1,null,"209f33e8",null),o=l.exports}}]);
+//# sourceMappingURL=83-legacy.35bcec16.js.map
